@@ -7,7 +7,6 @@ import { Header, Footer } from  "../src/components/index.js"
 import { Outlet } from 'react-router-dom'
 
 function App() {
-
   const [loading, setLoading] = useState(true)
   const dispach = useDispatch()
 
