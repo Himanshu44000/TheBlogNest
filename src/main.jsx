@@ -12,7 +12,7 @@ import { AuthLayout, Login } from './components/index.js'
 import AddPosts from "./pages/AddPost";
 import Signup from './pages/Signup'
 import EditPost from "./pages/EditPost";
-import Publicfeed from "./pages/Publicfeed.jsx"
+import Publicfeed from "./pages/PublicFeed.jsx"
 import Post from "./pages/Post";
 import AllPosts from "./pages/AllPosts";
 
